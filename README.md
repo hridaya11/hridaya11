@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hridaya Patil</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">I am curious comp sci student  from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridaya11&label=Profile%20views&color=0e75b6&style=flat" alt="hridaya11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hridaya11" alt="hridaya11" /></a> </p>
 
-- 🔭 I’m currently studying **Computer Science**
+- 🔭 I've completed studying **Computer Science**
 
-- 🌱 I’m currently learning **Python ,MongoDB, Scilab**
+- 🌱 I’m currently learning **Python ,Amazon Web Service**
 
 - 📫 How to reach me **hripatil01@gmail.com**
 

@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hripatil01@gmail.com**
 
-- ⚡ Fun fact **I like to travel , listening to songs**
+- ⚡ Fun fact **I like to travel , listening to songs (Especially Taylor swift 👀)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

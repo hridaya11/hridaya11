@@ -7,7 +7,7 @@
 
 - 🔭 I've completed studying **Computer Science**
 
-- 🌱 I’m currently learning **Python ,Amazon Web Service**
+- 🌱 I’m currently learning **Python ,Amazon Web Service,Web Development**
 
 - 📫 How to reach me **hripatil01@gmail.com**
 

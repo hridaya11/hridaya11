@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Hridaya Patil</h1>
 <h3 align="center">A Software Development and DevOps enthusiast from Mumbai, India</h3>
+---
+
+### 🎵 Now Playing on Spotify
+
+<p align="center">
+  <a href="https://open.spotify.com/user/YOUR_USER_ID_HERE">
+    <img src="https://spotify-github-profile.vercel.app/api/playing?user=31sk22t6656i32ogj2iyfbylqvp4?si=c89ef24f0c504c09&theme=dark" alt="Spotify Now Playing" />
+  </a>
+</p>
 
 ---
 

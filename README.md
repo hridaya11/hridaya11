@@ -3,13 +3,12 @@
 ---
 
 ### 🎧 My Favorite Playlist
-
 <p align="center">
-<a href="https://open.spotify.com/playlist/7Jrd4s7pKbngo65JE2GAh1">
-<img src="https://i.scdn.co/image/ab67706c0000bebb3283870349ac214e9f7831f4" alt="My Spotify Playlist" width="300"/>
-</a>
+  <a href="https://open.spotify.com/playlist/7Jrd4s7pKbngo65JE2GAh1">
+    <img src="https://i.scdn.co/image/ab67706c0000bebb3283870349ac214e9f7831f4" alt="Hridaya's Spotify Playlist" width="300"/>
+  </a>
 </p>
-
+---
 ### 🧑‍💻 About Me
 
 - 🎓 Pursuing a **Master of Computer Application (MCA)** at Bharatiya Vidya Bhavan's Sardar Patel Institute of Technology (2024 - Present).

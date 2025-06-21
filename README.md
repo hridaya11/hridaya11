@@ -2,12 +2,11 @@
 <h3 align="center">A Software Development and DevOps enthusiast from Mumbai, India</h3>
 ---
 
-
-### 🎵 Now Playing on Spotify
+### 🎧 My Favorite Playlist
 
 <p align="center">
-  <a href="https://open.spotify.com/user/31sk22t6656i32ogj2iyfbylqvp4">
-    <img src="https://spotify-github-profile.vercel.app/api/playing?user=31sk22t6656i32ogj2iyfbylqvp4&theme=radical" alt="Spotify Now Playing" />
+  <a href="https://open.spotify.com/playlist/7Jrd4s7pKbngo65JE2GAh1">
+    <img src="https://i.scdn.co/image/ab67706c0000bebb3283870349ac214e9f7831f4" alt="My Spotify Playlist" width="300"/>
   </a>
 </p>
 ---

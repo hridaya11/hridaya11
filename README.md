@@ -7,11 +7,11 @@
 
 - 🔭 I've completed studying **Computer Science**
 
-- 🌱 I’m currently learning **Python ,Amazon Web Service,Web Development**
+- 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me **hripatil01@gmail.com**
+- 📫 How to reach me **hridayapatil@proton.me**
 
-- ⚡ Fun fact **I like to travel , listening to songs (Especially Taylor swift 👀)**
+- ⚡ Fun fact **I like to travel , listening to songs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

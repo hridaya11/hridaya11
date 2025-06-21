@@ -70,12 +70,12 @@
 #### **Explainable AI (XAI) Framework for Personal Financial Advisory (FinSight AI)**
 - A personal financial advisory system that delivers transparent investment recommendations using ML models.
 - **Tech Stack:** Python, Streamlit, Scikit-learn, XGBoost, SHAP, LIME, PostgreSQL (via SupaBase).
-- `[Link to Repo - if public]`
+- `https://github.com/Sanjana-Code0/ai_financial_advisor_india.git`
 
 #### **Weather App**
 - A simple web page that fetches and displays current weather data from a weather API based on user input.
 - **Tech Stack:** HTML, CSS, JavaScript.
-- `[Link to Repo - if public]`
+- `https://github.com/hridaya11/Weather_App.git`
 
 ---
 

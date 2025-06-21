@@ -4,11 +4,7 @@
 
 ### 🎧 My Favorite Playlist
 
-<p align="center">
-  <a href="https://open.spotify.com/playlist/7Jrd4s7pKbngo65JE2GAh1">
-    <img src="https://i.scdn.co/image/ab67706c0000bebb3283870349ac214e9f7831f4" alt="My Spotify Playlist" width="300"/>
-  </a>
-</p>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7Jrd4s7pKbngo65JE2GAh1?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ---
 
 ### 🧑‍💻 About Me

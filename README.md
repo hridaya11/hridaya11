@@ -95,9 +95,10 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hridaya11&show_icons=true&locale=en&theme=radical" alt="stats"/>
     
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hridaya11&theme=radical" alt="streak"/>
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hridaya11&theme=radical" alt="streak"/>
 </p>
 <br>
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hridaya11&theme=github-compact" alt="activity graph" />
 </p>
+ -->

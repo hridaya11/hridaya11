@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=hridaya11&label=Profile+Views&color=0e75b6&style=flat)
+
 <h1 align="center">Hi 👋, I'm Hridaya Patil</h1>
 <h3 align="center">A Software Development and DevOps enthusiast from Mumbai, India</h3>
 ---
